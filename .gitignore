@@ -1,8 +1,8 @@
 # Rust
-**/**/target
-**/**/Cargo.lock
+**/target
+**/Cargo.lock
 
 # Frontend
-**/**/dist/
-**/**/.parcel-cachei
-**/**/node_modules
+**/dist/
+**/.parcel-cache
+**/node_modules
