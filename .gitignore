@@ -1,0 +1,8 @@
+# Rust
+**/**/target
+**/**/Cargo.lock
+
+# Frontend
+**/**/dist/
+**/**/.parcel-cachei
+**/**/node_modules
